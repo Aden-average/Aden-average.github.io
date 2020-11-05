@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+  <Title> Panda's are cool</Title>
   <header>Panda's are the best</header>
 
   <head>
@@ -10,17 +11,16 @@
   </head>
 
   <style>
-  box {}
     body {
       background-color: black;
       font-family: monospace;
-      color: green;
+      color: white;
     }
 
     .a {
       width: 450px;
       border: solid;
-      border-color: green;
+      border-color: white;
       border-width: 7px;
     }
 
